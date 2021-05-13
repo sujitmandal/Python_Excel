@@ -7,7 +7,7 @@ It will save .xls file by the sheet name.
 ```
 Step 1 : git clone https://github.com/sujitmandal/Python_Excel.git
 
-Step 2 : cd  Python_Excel
+Step 2 : cd Python_Excel
 
 Step 3 : pip install -r requirements.txt or pip3 install -r requirements.txt
 
